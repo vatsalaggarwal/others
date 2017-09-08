@@ -117,7 +117,7 @@ def some(seq):
 	return False
 
 
-# Update this to solve your own grid. Enter the Sudoku puzzle left to right replace empty spots by
+# Update this to solve your own grid. Enter the Sudoku puzzle left to right replacing empty spots by
 # periods.
 grid = '..4..91..726.....9.....57....53....7.3.....4.9....65....74.....5.....671..39..4..'
 
